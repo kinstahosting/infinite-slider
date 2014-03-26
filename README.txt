@@ -1,15 +1,17 @@
-# Infinite Slider #
-### Innovative slider plugin for WordPress based sites. ###
+=== Infinite Slider ===
+Contributors: MarkGav
+Tags: slider
+Requires at least: 3.5.1
+Tested up to: 3.9
+Stable tag: 2.0.0
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl.txt
 
-* Requires at least: 3.5.1
-* Tested up to: 3.9
-* Stable tag: 2.0.0
-* License: GPLv3 or later
-* License URI: http://www.gnu.org/licenses/gpl.txt
+Innovative slider plugin for WordPress based sites.
 
-## Description ##
+== Description ==
 
-### 20 Reasons for Choosing Infinite Slider ###
+20 Reasons for Choosing Infinite Slider
 
 1. Unique animated design
 2. Built up from special small pictures thumbnail grid
@@ -32,7 +34,7 @@
 19. Many adjustable options to customize your version of the Infinite Slider (filter based on custom post type, categories, tags and many many more features)
 20. Animated snap to place after drag/swipe
 
-### Fully Customizable with Options to: ###
+Fully Customizable with Options to:
 
 * Turn autosliding on/off
 * Set timer for autosliding
@@ -45,11 +47,11 @@
 * Set style of cover text fonts
 * Set description wordcount of cover text
 
-## Installation ##
+== Installation ==
 
 Upload the ZIP file via WordPress Admin Dashboard and activate the plugin. It's recommended to activate two other plugins: GitHub Updater and Regenerate Thumbnails. Please run Regenerate Thumbnails at least once after you've activated Infinite Slider so the slider can display the images in the correct size!
 
-### Uploading in WordPress Dashboard ###
+= Uploading in WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Navigate to the 'Upload' area
@@ -57,7 +59,7 @@ Upload the ZIP file via WordPress Admin Dashboard and activate the plugin. It's 
 4. Click 'Install Now'
 5. Activate the plugin in the Plugin dashboard
 
-### Using FTP ###
+= Using FTP =
 
 1. Download `infinite-slider.zip`
 2. Extract the `infinite-slider` directory to your computer
@@ -65,37 +67,36 @@ Upload the ZIP file via WordPress Admin Dashboard and activate the plugin. It's 
 4. Activate the plugin in the Plugin dashboard
 
 
-## Frequently Asked Questions ##
+== Frequently Asked Questions ==
 
-### Images are not displaying or are in a wrong size. ###
+= Images are not displaying or are in a wrong size. =
 
 Please run the Regenerate Thumbnails plugin at least once.
 
-## Changelog ##
+== Changelog ==
 
-#### 2.0.0 ####
+= 2.0.0 =
 * Complete rewrite of the plugin
 * Release on GitHub with GPLv3
 
-#### 1.11 ####
+= 1.11 =
 * JavaScript bug fixed that caused some trouble with IE9
 
-#### 1.1 ####
+= 1.1 =
 * Huge update! Added option to manually set "fixed width / boxed" mode. Plugin checks for parent div's width and sets automatically, though if that fails, you can specify it manually!
 * Various bug fixes
 
-#### 1.04 ####
+= 1.04 =
 * Added options to limit to/by WordPress categories and/or tags
 
-#### 1.03 ####
+= 1.03 =
 * Change in PHP function names
 * Bug fix in JS and PHP
 * Addition to documentation
 
-#### 1.02 ####
+= 1.02 =
 * Initial release
 
-## Updates ##
+== Updates ==
 
-* This plugin is actively updated as of 03.26.2014
-* This plugin supports the [GitHub Updater](https://github.com/afragen/github-updater) plugin, so if you install that, this plugin becomes automatically updateable direct from GitHub.
+This plugin supports the [GitHub Updater](https://github.com/afragen/github-updater) plugin, so if you install that, this plugin becomes automatically updateable direct from GitHub.
